@@ -1,0 +1,32 @@
+Loan Calculator (Tkinter GUI Version)
+=====================================
+
+This application calculates loan payments (annuity or differentiated),
+displays an amortization chart and table, and allows saving the schedule
+as CSV or Excel.
+
+-----
+SETUP
+-----
+
+1. Install Python 3 (https://www.python.org/downloads/)
+
+2. Open a terminal or command prompt.
+
+3. Navigate to this folder and run:
+
+   pip install -r requirements.txt
+
+4. Run the app:
+
+   python loan_calculator.py
+
+-----
+USAGE
+-----
+
+- Choose 'annuity' or 'diff'
+- Fill in 2 of the 3: principal, payment, periods
+- Enter an interest rate
+- Click "Calculate" or "Show Chart"
+- You can save the amortization table as CSV or Excel
