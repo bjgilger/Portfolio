@@ -1,0 +1,13 @@
+{
+    "player": 0,
+    "computer": 1,
+    "draws": 0,
+    "history": [
+        {
+            "result": "computer",
+            "turns": 24,
+            "snake_length": 19,
+            "timestamp": "2025-06-12T16:01:18.580829"
+        }
+    ]
+}
