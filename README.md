@@ -21,7 +21,7 @@ This repository showcases a collection of projects and exercises developed to de
 - [Zookeeper](#zookeeperpy)
 - [Bot](#bot)
 - [Dominoes](#dominoes)
-- [CLI Filfe Manager](#manager.py)
+- [CLI File Manager](#manager.py)
 
 Each project includes its own description and instructions for use.  
 Projects are written in Python and are suitable for further development or learning reference.
