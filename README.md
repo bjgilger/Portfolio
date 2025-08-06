@@ -5,6 +5,7 @@ This repository showcases a collection of projects and exercises developed to de
 
 ## Table of Contents
 
+- [RegEx Generator](#regex)
 - [Loan Calculator (CLI)](#loan-calculator-cli)
 - [Loan Calculator (GUI)](#loan-calculator-gui)
 - [Bill Splitter](#billsplitterpy)
