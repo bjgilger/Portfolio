@@ -5,6 +5,7 @@ This repository showcases a collection of projects and exercises developed to de
 
 ## Table of Contents
 
+- [Arithmetic Exam Application](arithmetic.py)
 - [Simple Banking System](#banking)
 - [RegEx Generator](#regex)
 - [Loan Calculator (CLI)](#loan-calculator-cli)
