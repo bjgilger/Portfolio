@@ -1,7 +1,7 @@
 # Portfolio
 
-Welcome to my Python programming portfolio!  
-This repository showcases a collection of projects and exercises developed to demonstrate skills in problem-solving, automation, and software development using Python.
+Welcome to my programming portfolio!  
+This repository showcases a collection of projects and exercises developed to demonstrate skills in problem-solving, automation, and software development using Python and JavaScript.
 
 ## Table of Contents
 
